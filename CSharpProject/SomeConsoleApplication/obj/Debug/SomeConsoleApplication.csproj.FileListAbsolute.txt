@@ -1,0 +1,7 @@
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csprojAssemblyReference.cache
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\Users\grima\Desktop\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb
